@@ -39,8 +39,7 @@
 ## Acknowledgements
 Give credit here.
 - This project was inspired by Upgrad
-- References if any 
-
+  
 ## Contact
 Created by [@mani2807] - feel free to contact me!
 
